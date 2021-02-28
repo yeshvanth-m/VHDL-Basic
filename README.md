@@ -1,1 +1,1 @@
-# VHDL-Basic
+# VHDL
